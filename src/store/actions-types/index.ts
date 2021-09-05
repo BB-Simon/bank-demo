@@ -3,3 +3,9 @@ export enum ActionTypes {
     WITHDRAW = 'withdraw',
     BANKRUPT = 'bankrupt',
 }
+
+export enum SnackbarActionTypes {
+    SUCCESS = 'success',
+    ERROR = 'error',
+    CLOSE = 'close',
+}

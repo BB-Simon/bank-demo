@@ -1,4 +1,4 @@
-import { Action } from "../actions";
+import { Action } from "../actions/BankActionsTypes";
 import { ActionTypes } from "../actions-types";
 
 const initialState = 100;

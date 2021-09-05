@@ -1,5 +1,5 @@
 import { Dispatch } from "redux";
-import { Action } from "../actions";
+import { Action } from "../actions/BankActionsTypes";
 import { ActionTypes } from "../actions-types";
 
 export const depositMoney = (amount: number) => {
