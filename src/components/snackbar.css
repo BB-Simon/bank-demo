@@ -1,0 +1,14 @@
+.box {
+    margin: 20px auto;
+    max-width: 500px;
+    padding: 8px 12px;
+    border-radius: 4px;
+}
+.success {
+    border: 2px solid green;
+    color: green;
+}
+.error {
+    border: 2px solid red;
+    color: red
+}
